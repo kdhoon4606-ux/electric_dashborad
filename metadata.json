@@ -1,0 +1,6 @@
+{
+  "name": "실시간 전기 시세",
+  "description": "한국전력거래소 시간별 전국 전력수요량(2025년)을 한눈에 확인하는 모바일 전력 시장 대시보드",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
